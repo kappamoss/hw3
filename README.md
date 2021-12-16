@@ -1,12 +1,12 @@
 # hw3
 
 # Requirements
-detectron2 
-(https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
-if you can bulit it well, you need to install vs 2015 c++ tool
-python == 3.6
+detectron2   
+(https://detectron2.readthedocs.io/en/latest/tutorials/install.html)  
+if you can bulit it well, you need to install vs 2015 c++ tool  
+python == 3.6  
 
-pytorch == 1.8
+pytorch == 1.8  
 
 opencv 
 
