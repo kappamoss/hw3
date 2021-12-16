@@ -16,7 +16,7 @@ GUP: GTX2080
 CUDA: 11.3
 
 # Training  
-(you need to  download the dataset from here:https://drive.google.com/drive/folders/1-3oUs2aqWN8F8Gsl9LfPjDLlIBWwSuR6?usp=sharing, and put them into dataset folder, no external data be used.)  
+(you need to  download the dataset from here:, and put them into dataset folder, no external data be used.)  
 To train the model:  
 python train_nu.py
 
