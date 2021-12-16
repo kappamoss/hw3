@@ -28,10 +28,7 @@ cfg.MODEL.RPN.PRE_NMS_TOPK_TRAIN = 12000
 cfg.MODEL.RPN.POST_NMS_TOPK_TRAIN = 5000
 cfg.MODEL.RPN.PRE_NMS_TOPK_TEST = 60000
 cfg.MODEL.RPN.POST_NMS_TOPK_TEST = 55000
-
 cfg.MODEL.RPN.NMS_THRESH = 0.9
-
-# path to the model we just trained
 cfg.MODEL.WEIGHTS = os.path.join("./output_model", "best.pth")
 cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.9   # set a custom testing threshold
 
